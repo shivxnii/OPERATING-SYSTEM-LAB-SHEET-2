@@ -5,6 +5,7 @@ This repository contains the complete implementation of Lab Sheet 2 for ENCS351 
 system_startup.py — Main program script
 process_log.txt — Log output with process lifecycle
 report.md — Report containing objectives, methodology, and observations
+
 #How to Run
 Ensure you are on a Linux/macOS system with Python 3 installed.
 Run the program:
@@ -22,6 +23,7 @@ process_log.txt:
 2025-07-16 12:35:21,006 - Process-2 - Process-2 started
 2025-07-16 12:35:23,007 - Process-1 - Process-1 ended
 2025-07-16 12:35:23,008 - Process-2 - Process-2 ended
+
 #Author
 Shivani Sharma
 B.Tech — Computer Science & Engineering
